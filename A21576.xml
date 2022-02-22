@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Kynge and the Quene Philippe and Marie by the grace of God, king and queen of Englande, Spayne, Fraunce, both Cycilles, Jerusalem and Irelande ...</title>
+            <author>England and Wales. Sovereign (1553-1558 : Mary I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1558</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21576</idno>
+            <idno type="STC">STC 7882</idno>
+            <idno type="STC">ESTC S3723</idno>
+            <idno type="EEBO-CITATION">33150850</idno>
+            <idno type="OCLC">ocm 33150850</idno>
+            <idno type="VID">28782</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21576)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28782)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1874:53)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Kynge and the Quene Philippe and Marie by the grace of God, king and queen of Englande, Spayne, Fraunce, both Cycilles, Jerusalem and Irelande ...</title>
+                  <author>England and Wales. Sovereign (1553-1558 : Mary I)</author>
+                  <author>Mary I, Queen of England, 1516-1558.</author>
+               </titleStmt>
+               <extent>2 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>In aedibus Iohannis Cavvodi Tipographi Regiæ  Maiestatis,</publisher>
+                  <pubPlace>Excusum Londini :</pubPlace>
+                  <date>Anno M.D.LVIII [1558]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains wood-cut initial.</note>
+                  <note>Other title information from first three lines of text.</note>
+                  <note>Appointing William Marquis of Winchester lieutenant governor south of the Trent.</note>
+                  <note>"Wytnes our selfes at Grenewiche the xii. day of Apryll the fourth and fyfte yeares of our reygnes."</note>
+                  <note>"Cum priuilegio ad imprimendum solum."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Winchester, William Paulet, --  Marquis of, ca. 1483-1572.</term>
+               <term>Great Britain --  History --  Mary I, 1553-1558.</term>
+               <term>Great Britain --  Politics and government --  1553-1558.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:28782:1"/>
+            <pb facs="tcp:28782:1" rendition="simple:additions"/>
+            <head>By the Kynge and the Queene.</head>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">P</seg>HILIPPE AND MARIE</hi> by the grace of God king and Quene of Englande, Spayne, Fraunce, both Cycilles, Ieruſalem, and Irelande, defendonts of the Faythe, Archdukes of Auſtria, Dukes of Burgon, Myllayne, and Brabante, Counties of Haſ<g ref="char:EOLhyphen"/>purg Flaunders and Tyroll.</signed>
+               <salute>To our right truſty and right welbe loued Colyn and Counſaylor, Willyam Marques of Wincheſter, our Treaſurer of Engla<g ref="char:cmbAbbrStroke">̄</g>d, greting.</salute>
+            </opener>
+            <p>Wheras for the defence of this our Realme, and for the peace and quiet of our louyng Subiectes of the ſame. We haue heretofore by our Letters patentes, vnder our great Seale, appointed cer<g ref="char:EOLhyphen"/>ten of our nobilitie and other, to be our Lieutenauntes of Sondry Counties, Cities, and townes in the ſame letters patents expreſſed. So haue we thought it requiſite &amp; co<g ref="char:cmbAbbrStroke">̄</g>uenient to prouide for the ſurety and preſeruation of our Royall perſonnes. And haue for that purpoſe reſerued the pow<g ref="char:EOLunhyphen"/>er of the Counties, Cities and Townes hereafter mentioned. The rule and charge whereof we haue thought good to committe vnto you, Whom in that caſe we haue ſpeciallye appointed, to be attendaunte vpon our ſayd perſons. Knowe ye therefore that for the grete and ſinguler truſt and confydence, that we haue in your approued fydelitie, wyſedome and circumſpection. We haue aſ<g ref="char:EOLhyphen"/>ſigned, made, conſtituted and ordeyned, and by theſe preſentes doo aſſigne, make, conſtitute, and ordeine you to be our lieutenaunt within our counties of Buckingha<g ref="char:cmbAbbrStroke">̄</g>, Bedford, Huntington, Cam<g ref="char:EOLunhyphen"/>brydge, Midd. Oxenforde, Berk. Wigorn, Hereforde, Glouceſter, Monmouth, Northampton Rutlande, Leiceter, Warwicke, Hertforde, Brecknocke, Glamorgan, Radnoure, Carmarthen, Pembrocke, Cardigan, Denbighe, Mou<g ref="char:cmbAbbrStroke">̄</g>tgomery, Flint, Carnaruon, Angleſey and Merioneth, the Iſle of Elie, the Cities of London, Glouceſter, Briſtoll, Couentre, and the towne of Ha<g ref="char:EOLhyphen"/>uerford weſt, and the counties of them, and euerye of them aſwell within liberties as withoute, and by theſe preſentes doo geue full power and aucthoritie vnto you, that ye from tyme to tyme, may leuye, gather and call together al and ſinguler our Subiectes of what degre, eſtate, or digni<g ref="char:EOLhyphen"/>tie they or any of them ben dwelling or inhabitinge within oure ſayde Counties, Iſle, Cities, and towne, or in any of them, aſwell within liberties as withoute, mete and apte for the wartes. And them to trye arraye, and put in redines, and them alſo, and euery of them after their liabilities, de<g ref="char:EOLunhyphen"/>grees, and faculties, well and ſufficiently to cauſe to be armed, and ſufficiently weaponed. And to take the muſters of them from tyme to time, in places moſt mete for that purpoſe, after youre good diſcretion. And alſo the ſame our Subiectes ſoo arrayed, tryed, and armed aſwelmen of armes, as other horſemen, Archers, and fotemen of al kyndes of degrees mete and apte for the warres, to leade and conducte aſwell agaynſt al and ſinguler our enemies. As alſo agaynſt al and ſinguler re<g ref="char:EOLunhyphen"/>bels traytoures, and other offenders, and there adherentes agaynſt vs, our Crowne, and digny<g ref="char:EOLhyphen"/>tie, within oure ſayd Counties, Iſle, Cities, and towne, or any of them, from tyme to tyme, as of<g ref="char:EOLhyphen"/>ten as nede ſhall requyre, by your diſcreſion. And with the ſayd euemies, rebells and traycoures, to light, and them to inuade, reſiſt, repreſſe<g ref="char:punc">▪</g> ſubdue, ſlea<g ref="char:punc">▪</g> kyll and put to execution of deathe, by all wayes and meanes, by youre ſaide good diſcretion. And to doo fulfyll and execute all and ſinguler other thynges, whych ſhalbe requyſyte for the leuying and gouernement of our ſaid ſubiectes, con<g ref="char:EOLunhyphen"/>ſeruation of our perſon and peace, ſo by you in four me aforeſayd leuied and to be ledde.</p>
+            <p>AND further to doo execute and vſe agaynſte the ſayd enemies, traytours, rebells, and ſuche other lyke offendours, and theire adherentes, as neceſſytye ſhall requyre by youre dyſcretion, the lawe called the marſhall lawe, according to the lawe marſhal, and of ſuch offendours appreheded and being brought in ſubiection, to ſaue whome ye ſhall thinke good to be ſaued, and to ſlea dyſ<g ref="char:EOLhyphen"/>troy
+<pb facs="tcp:28782:2"/>
+               <pb facs="tcp:28782:2"/>and put to execution of death, ſuch and aſmany of them, as ye ſhall think: mete by your good diſcretion to be put to death.</p>
+            <p>AND further our will and pleaſure is, and by theſe preſentes do geue ful power and auctho<g ref="char:EOLhyphen"/>titie vnto you, that in caſe any inuation of enemies, inſurrections, rebellion, riottes, routes or in<g ref="char:EOLhyphen"/>lawefull aſſembles, or any like offences, ſhall happen to be moned in any place of this our realme, out of the lymittes of this oure commiſſion. That then and as often as ye ſhal perceyue anye ſuche miſdemeanor to aryſe, you with al the power ye can make, ſhal with all diligence repayre to the place where any ſuch inuaſion, vnlawfull aſſembles, or inſurrections ſhall happen to be made, to ſubdue, repreſſe, and reforme the ſame aſwell by battayle and other kynd of force, as otherwiſe by the lawes of oure Realme, and the lawe marſhall, according to your diſcreſion.</p>
+            <p>AND further we geue you full power and aucthoritie for the executing of this our commiſſi<g ref="char:EOLunhyphen"/>on, to appoint and aſſigne within the ſaid counties, Iſle, Cities, and Towne, and euery of them, a prouoſt marſhall to vſe and exerciſe that offyce in ſuche caſes as ye ſhal thinke requiſite, to vſe the foreſayd lawe marſhall.</p>
+            <p>WHEREFORE we wyl and lykewyſe commaund you our ſayde lieutenaunte, that w<hi rend="sup">t</hi> al dylygence ye do execute the premiſſes with effecte. And further we wyl and commaund al and ſinguler our Iuſtices of peace, Maiors, Sheriffes, Bayliffes, Conſtables, Hedboroughs, officers miniſters and al other our ſubiects, mete and apte for the warres, within our ſayde counties, Iſle, Cyties, and Towne and euery of them, to whom it ſhall appertayne, that they and euery of them with their power and ſeruauntes, from tyme to tyme ſhalbe attendaunt aydinge, aſſiſtinge, coun<g ref="char:EOLunhyphen"/>ſellynge, helpyng, and at your commaundement in the due execution hereof, as they and euery of them tendre our pleaſure, and wyll anſwere for the contrary at their vttermoſt perylls. And fur<g ref="char:EOLhyphen"/>ther our pleaſure is, that whatſoeuer ye ſhall do by vertue of this our commiſſion, &amp; accordyng to the tenure and effecte of the ſame touchyng the execution of the premiſſes, or anye part thereof, ye ſhalbe dyſcharged in that behalfe agaynſt vs, and the heires and ſucceſſours of vs the Quene. In wytnes wherof, we haue cauſed theſe our Letters to be made Patentes, and to contynue during oure pleaſure. Wytnes our ſelfes at Grenewiche the .xii. day of Apryll, the ſourth and fyfte yeares of our reygnes.</p>
+            <closer>God ſaue the Kynge and the Quene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>EXCVSVM LONDINI IN AEDIBVS Iohannis Cavvodi, Tipographi Regiae Maieſtatis. Anno. M.D.LVIII</p>
+         </div>
+         <div xml:lang="lat" type="license">
+            <p>Cum priuilegio ad imprimendum ſolum.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
